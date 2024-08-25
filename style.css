@@ -173,10 +173,10 @@ body {
     content: "";
     display: block;
     background: var(--darkRed);
-    background: -moz-linear-gradient(180deg, var(--darkRed) 3%, var(--darkRed3) 37%);
-    background: -webkit-linear-gradient(180deg, var(--darkRed) 3%, var(--darkRed3) 37%);
-    background: linear-gradient(180deg, var(--darkRed) 3%, var(--darkRed3) 37%);
-    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#1d0000", endColorstr="#480011", GradientType=1);
+    background: -moz-linear-gradient(180deg, var(--darkBlue) 3%, var(--darkBlue3) 37%);
+    background: -webkit-linear-gradient(180deg, var(--darkBlue) 3%, var(--darkBlue3) 37%);
+    background: linear-gradient(180deg, var(--darkBlue) 3%, var(--darkBlue3) 37%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#141ABA", endColorstr="#2A1B60", GradientType=1);
 }
 
 .main__content {
